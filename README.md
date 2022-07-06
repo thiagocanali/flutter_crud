@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
